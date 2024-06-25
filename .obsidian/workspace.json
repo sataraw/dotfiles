@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "65dbf4c806465220",
+    "type": "split",
+    "children": [
+      {
+        "id": "d16fb3af3a739ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ee8169cdeacf41d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "b37600d8a982566f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester survival plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66479b88f5826b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "2feb2c7808f0675b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f6d89e2f1d9fa87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "333f3960665fe47b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac657647f3c7e6ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "da734d743e0b8051",
+    "type": "split",
+    "children": [
+      {
+        "id": "37765b7e15dbe937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50a43fdbf84b8b00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semester survival plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "999c1f51f9eaf557",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semester survival plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d4e98f87616f70b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "31da39c591b33752",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semester survival plan.md"
+              }
+            }
+          },
+          {
+            "id": "b3bb087db8861d6b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "564df72df6abf437",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0685a0d745562c1e",
+        "type": "window",
+        "children": [
+          {
+            "id": "25288ad195a2f5ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5c9f94c3a6847472",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Arbeit/Afairi/Expat - Competitors.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -550,
+        "y": -78,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b37600d8a982566f",
+  "lastOpenFiles": [
+    "Arbeit/Afairi/Expat - Competitors.md",
+    "Semester survival plan.md",
+    "Excalidraw/Drawing 2024-03-13 19.26.03.excalidraw.md",
+    "Untitled 1.md",
+    "Persönlich/Uni/ML/pca.md",
+    "Persönlich/Uni/ML/svm.md",
+    "Persönlich/Uni/lernplan.md",
+    "Pasted image 20240408124240.png",
+    "Images/Pasted image 20240405150541.png",
+    "Persönlich/Random Listen/Authentfication.md",
+    "Pasted image 20240405150541.png",
+    "Persönlich/Uni/Wiederholungskatalog.md",
+    "Images/Pasted Image 20240313193420_985.png",
+    "Images/Pasted image 20240405150122.png",
+    "Images/Pasted image 20240405144910.png",
+    "Images/Pasted image 20240405144851.png",
+    "Images/Pasted image 20240405144819.png",
+    "Images/Pasted image 20240405143551.png",
+    "Images/Pasted image 20240405142556.png",
+    "Persönlich/Uni/ML/linear_classification.md",
+    "Persönlich/Uni/ML/knn.md",
+    "Excalidraw/Drawing 2023-10-23 19.26.00.excalidraw.md",
+    "Excalidraw/ML Math Refresher.md",
+    "Excalidraw/Drawing 2024-03-12 09.14.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-08 00.17.18.excalidraw.md",
+    "Persönlich/Uni/ITSEC/Angriffsklassen.md",
+    "Persönlich/Uni/ITSEC/Buffer Overflow.md",
+    "Persönlich/Uni/ITSEC/SQL-Injection.md",
+    "Persönlich/Uni/ITSEC/XSS.md",
+    "Persönlich/Uni/ITSEC/CSRF.md",
+    "Persönlich/Uni/ITSEC/IT SEC.md",
+    "Persönlich/Uni/ITSEC/Schutzziele.md",
+    "Persönlich/Uni/ITSEC/ARP Cache Poisoning.md",
+    "Persönlich/Uni/ML/kdt.md",
+    "Persönlich/Uni/ITSEC/Kryptografie.md",
+    "Signaturverfahren.md",
+    "Persönlich/Uni/ITSEC",
+    "Images"
+  ]
+}
