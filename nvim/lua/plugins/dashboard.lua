@@ -20,8 +20,8 @@ return {
         ⠀⠀⠀⠀⠀⠐⣼⡠⠥⠊⡂⣼⢀⣤⠠⡲⢂⡌⡄⠀⠀⠀⠀⠀
         ⠀⠀⠀⠀⣀⠝⡛⢁⡴⢉⠗⠛⢰⣶⣯⢠⠺⠀⠈⢥⠰⡀⠀⠀
         ⠀⣠⣴⢿⣿⡟⠷⠶⣶⣵⣲⡀⣨⣿⣆⡬⠖⢛⣶⣼⡗⠈⠢⠀
-        ⢰⣹⠭⠽⢧⠅⢂⣳⠛⢿⡽⣿⢿⡿⢟⣟⡻⢾⣿⣿⡤⢴⣶⡃
-  ]]
+        ⢰⣹⠭⠽⢧⠅⢂N⠛E⢿O⡽V⣿I⢿M⡿⢟⣟⡻⢾⣳
+        ]]
   logo = string.rep("\n", 4) .. logo .. "\n"
   opts.config.header = vim.split(logo, "\n")
   opts.theme = "doom"
