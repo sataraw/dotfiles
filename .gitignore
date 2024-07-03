@@ -1,0 +1,14 @@
+# Exclude everything
+*
+
+# Un-exclude specific folders and their contents
+!.obsidian/
+!.obsidian/**
+
+!nvim/
+!nvim/**
+
+!powershell/
+!powershell/**
+
+!.gitignore
