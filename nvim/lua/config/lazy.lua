@@ -47,4 +47,4 @@ require("lazy").setup({
   },
 })
 
-require 'nvim-treesitter.install'.compilers = { "zig" }
+require 'nvim-treesitter.install'.compilers = { "gcc", "zig" }

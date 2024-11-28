@@ -2,7 +2,12 @@ return {
 
     "williamboman/mason.nvim",
     cmd = { "Mason", "MasonInstall", "MasonUpdate", "MasonUninstall" },
-
+    opts = {
+      ensure_installed = {
+        "clang-format",
+        "clangd",
+    }
+  },
     
     config = function(_, opts)
       require("mason").setup(opts)
